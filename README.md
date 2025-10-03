@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 - 🧠 [Logical Fallacy Detector](https://github.com/NavinPrasath14/Logical-Fallacy-Classification)  
   ELECTRA + Case-Based Reasoning for multi-class fallacy detection.
 
-- 🎼 [150K-Lyrics-Classifier](https://github.com/yukta1103/150K-Lyrics-Classifier)
-Large-scale genre/mood text classification via ML.
+- 🎼 [150K-Lyrics-Classifier](https://github.com/yukta1103/150K-Lyrics-Classifier)<br />
+  Large-scale genre/mood text classification via ML.
   
 📫 Reach me at: nandhakumar.a@northeastern.edu
 
