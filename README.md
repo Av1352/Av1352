@@ -16,26 +16,29 @@ Here are some ideas to get you started:
 -->
 
 
-🎓 MS in Artificial Intelligence @ Northeastern University  
-💡 Passionate about Computer Vision | Deep Learning | Explainable AI  
-🌍 Open to full-time roles in AI/ML | May 2025 Graduate
-
-## 🔬 Projects
-
-- 🤟 [ISL Sign Language Recognition](https://github.com/Av1352/Sign-language-converter)  
-  Real-time CNN-based system with 93.4% accuracy trained across 3 ISL dialects.
-
-- 😄 [Emotion-Based Music Recommender](https://github.com/Av1352/Music-recommendation-system)  
-  Real-time facial emotion classifier + playlist recommender. 96% accuracy.
-
-- 🧠 [Logical Fallacy Detector](https://github.com/NavinPrasath14/Logical-Fallacy-Classification)  
-  ELECTRA + Case-Based Reasoning for multi-class fallacy detection.
+🎓 MS in Artificial Intelligence @ Northeastern University (May 2025 Graduate)  
+💡 Passionate about Computer Vision, Deep Learning (CNNs, XAI), and real-world AI deployment  
+🚀 Seeking AI/ML Engineer roles—applying advanced ML to solve impactful, interdisciplinary challenges
 
 ## ⚙️ Tech Stack
 **Languages:** Python, C++, SQL  
 **Frameworks:** PyTorch, TensorFlow, Flask  
 **Tools:** Docker, OpenCV, Git, Kubernetes  
-**Domains:** Computer Vision, Medical Imaging, XAI, NLP
+**Domains:** Computer Vision, NLP, Medical Imaging, XAI, Data Analysis
 
+## 🔬 Projects
+
+- 🤟 [Indian Sign Language Recognition](https://github.com/Av1352/Sign-language-converter)  
+  Real-time CNN-based system with 93.4% accuracy trained across 3 ISL dialects.
+
+- 😄 [Emotion-Based Music Recommender](https://github.com/Av1352/Music-recommendation-system)  
+  Real-time facial emotion classifier and playlist recommender 96% accuracy.
+
+- 🧠 [Logical Fallacy Detector](https://github.com/NavinPrasath14/Logical-Fallacy-Classification)  
+  ELECTRA + Case-Based Reasoning for multi-class fallacy detection.
+
+- 🎼 [150K-Lyrics-Classifier](https://github.com/yukta1103/150K-Lyrics-Classifier)
+  Large-scale genre/mood text classification via ML.
+  
 📫 Reach me at: nandhakumar.a@northeastern.edu
 
