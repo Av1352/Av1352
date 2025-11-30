@@ -116,16 +116,15 @@ Smart-parking RL achieving 34% efficiency improvement.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Insights  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&count_private=true&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&icon_color=DAB49D&text_color=c1c1c1&border_radius=10" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&count_private=true&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&icon_color=DAB49D&text_color=c1c1c1" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Av1352&layout=compact&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&text_color=c1c1c1&border_radius=10" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Av1352&theme=radical&hide_border=true&background=0e0e0e&ring=73BA9B&fire=DAB49D&currStreakLabel=73BA9B&sideNums=c1c1c1&dates=c1c1c1&sideLabels=73BA9B" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Av1352&layout=compact&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&text_color=c1c1c1" height="170" />
 
 </div>
+
 
 ---
 
