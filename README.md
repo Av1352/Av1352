@@ -66,22 +66,22 @@ Here are some ideas to get you started:
 
 ### **Computer Vision**
 
-#### 🧬 VisAIble – Deepfake Detection  
+#### VisAIble – Deepfake Detection  
 **PyTorch · EfficientNet-B0 · Grad-CAM · LIME**  
 95%+ accurate deepfake detection with explainability & human-AI collaboration.  
 🔗 [Demo](https://visaible.streamlit.app/) · [Code](https://github.com/Av1352/VisAIble)
 
-#### 🩺 Explainable Tumor Classification  
+#### Explainable Tumor Classification  
 **TensorFlow · CNN · SHAP · Grad-CAM**  
 Transparent histopathologic cancer detection with XAI overlays.  
 🔗 [Demo](https://tumor-classification-xai.streamlit.app/) · [Code](https://github.com/Av1352/Tumor-Classification)
 
-#### 🫁 Chest X-Ray Classification System  
+#### Chest X-Ray Classification System  
 **Medical Imaging · Grad-CAM · PDF Auto-Reporting**  
 Pneumonia severity prediction with clinical-style archiving.  
 🔗 [Demo](https://chest-x-ray-classification.streamlit.app) · [Code](https://github.com/Av1352/Chest-X-ray-Classification)
 
-#### 🤟 Indian Sign Language Recognition  
+#### Indian Sign Language Recognition  
 **CNN · Real-time CV · Accessibility**  
 93.4% accuracy across 3 dialects; full real-time gesture translation.  
 🔗 [Demo](https://indian-sign-language-recognition.streamlit.app) · [Code](https://github.com/Av1352/Indian-Sign-Language-Recognition)
@@ -90,12 +90,12 @@ Pneumonia severity prediction with clinical-style archiving.
 
 ### **Natural Language Processing**
 
-#### 🧠 Logical Fallacy Detection  
+#### Logical Fallacy Detection  
 **ELECTRA · Transformers · CBR**  
 Detects multi-class fallacies using hybrid transformer reasoning.  
 🔗 [Demo](https://logical-fallacy-detection.streamlit.app/) · [Code](https://github.com/Av1352/Logical-Fallacy-Detection)
 
-#### 🎼 150K Lyrics Genre Classifier  
+#### 150K Lyrics Genre Classifier  
 **NLP · Text Classification**  
 Genre/mood prediction on 150K lyrics corpus.  
 🔗 [Demo](https://lyrics-classifier.streamlit.app) · [Code](https://github.com/yukta1103/150K-Lyrics-Classifier)
@@ -104,12 +104,12 @@ Genre/mood prediction on 150K lyrics corpus.
 
 ### **Reinforcement Learning**
 
-#### 🚗 Autonomous Highway RL  
+#### Autonomous Highway RL  
 **Rainbow DQN · A3C · Decision Transformers**  
 Achieved 48.2 max reward in highway-env with safety-focused policies.  
 🔗 [Demo](https://highway-reinforecement-problem.streamlit.app/) · [Code](https://github.com/Av1352/Highway-RL)
 
-#### 🅿️ Multi-Agent Parking Management  
+#### Multi-Agent Parking Management  
 **Multi-Agent RL · Optimization**  
 Smart-parking RL achieving 34% efficiency improvement.  
 🔗 [Demo](https://parking-management-rl.streamlit.app/) · [Code](https://github.com/Av1352/Parking-Management)
@@ -151,7 +151,6 @@ Smart-parking RL achieving 34% efficiency improvement.
 - MLOps / Production ML  
 
 📍 Boston, MA · Open to Remote  
-🛂 F1 OPT (H1B sponsorship needed)
 
 ---
 
