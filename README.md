@@ -119,11 +119,13 @@ Smart-parking RL achieving 34% efficiency improvement.
 ## 📊 GitHub Stats  
 <div align="center">
 
-![Anju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&theme=radical&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&icon_color=DAB49D&text_color=c1c1c1&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&theme=radical&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&icon_color=DAB49D&text_color=c1c1c1&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1352&layout=compact&theme=radical&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&text_color=c1c1c1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1352&layout=compact&theme=radical&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&text_color=c1c1c1&hide=html,css)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Av1352&theme=radical&hide_border=true&background=0e0e0e&ring=73BA9B&fire=DAB49D&currStreakLabel=73BA9B)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Av1352&color=73BA9B&style=flat)
 
 </div>
 
