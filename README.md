@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Anju Vilashni Nandhakumar  
-### Senior ML Engineer | Computer Vision · NLP · Reinforcement Learning
+### ML Engineer | Computer Vision · NLP · Reinforcement Learning
 
 🎓 **MS in Artificial Intelligence** @ Northeastern University (2025)  
 ⚙️ **3+ years** building production ML systems with PyTorch, TensorFlow & Docker  
@@ -22,7 +22,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ---
 
-## 🌟 Senior Highlights
+## 🌟 Highlights
 - 🚀 Reduced model inference latency by **20%** in production ML pipelines  
 - 📦 Designed CI/CD + monitoring for multiple deployed models  
 - 🤝 Led cross-functional engineering collaborations  
@@ -35,8 +35,8 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 <!-- ==================== LIVE WIDGETS ==================== -->
 <div align="center">
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Av1352&theme=github_dark)
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Av1352&theme=github_dark)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Av1352&theme=github_dark)
+![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Av1352&theme=github_dark)
 
 </div>
 
@@ -75,7 +75,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🖼 VisAIble – Deepfake Detection
 <div align="center">
-  <img src="portfolio/visaible.png" alt="VisAIble Thumbnail" width="400"/>
+  <img src="portfolio/visaible.png" alt="VisAIble Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
 </div>
 
 **Tech:** PyTorch · EfficientNet-B0 · Grad-CAM · LIME  
@@ -90,7 +90,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🧬 Explainable Tumor Classification
 <div align="center">
-  <img src="portfolio/tumor_classification.png" alt="Tumor Classification Thumbnail" width="400"/>
+  <img src="portfolio/tumor_classification.png" alt="Tumor Classification Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
 </div>
 
 **Tech:** TensorFlow · CNN · SHAP · Grad-CAM  
@@ -105,7 +105,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🤟 Indian Sign Language Recognition
 <div align="center">
-  <img src="portfolio/isl.png" alt="ISL Thumbnail" width="400"/>
+  <img src="portfolio/isl.png" alt="ISL Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
 </div>
 
 **Tech:** CNN · Real-time CV · Accessibility  
@@ -125,7 +125,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 📝 Logical Fallacy Detection
 <div align="center">
-  <img src="portfolio/logical_fallacy.png" alt="Logical Fallacy Thumbnail" width="400"/>
+  <img src="portfolio/logical_fallacy.png" alt="Logical Fallacy Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
 </div>
 
 **Tech:** ELECTRA · Transformers · CBR  
@@ -139,7 +139,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🚗 Autonomous Highway RL
 <div align="center">
-  <img src="portfolio/highway_rl.png" alt="Highway RL Thumbnail" width="400"/>
+  <img src="portfolio/highway_rl.png" alt="Highway RL Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
 </div>
 
 **Tech:** Rainbow DQN · A3C · Decision Transformers  
@@ -153,7 +153,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🅿 Multi-Agent Parking Management
 <div align="center">
-  <img src="portfolio/parking.png" alt="Parking Management Thumbnail" width="400"/>
+  <img src="portfolio/parking.png" alt="Parking Management Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
 </div>
 
 **Tech:** Multi-Agent RL · Optimization  
