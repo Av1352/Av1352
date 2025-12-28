@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Anju Vilashni Nandhakumar  
-### Senior ML Engineer | Computer Vision · NLP · Reinforcement Learning
+### ML Engineer | Computer Vision · NLP · Reinforcement Learning
 
 🎓 **MS in Artificial Intelligence** @ Northeastern University (2025)  
 ⚙️ **3+ years** building production ML systems with PyTorch, TensorFlow & Docker  
