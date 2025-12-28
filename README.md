@@ -76,7 +76,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🖼 VisAIble – Deepfake Detection
 <div align="center">
-  <img src="portfolio/Visaible.png" alt="VisAIble Thumbnail" width="400"/>
+  <img src="portfolio/visaible.png" alt="VisAIble Thumbnail" width="400"/>
 </div>
 
 **Tech:** PyTorch · EfficientNet-B0 · Grad-CAM · LIME  
@@ -91,7 +91,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🧬 Explainable Tumor Classification
 <div align="center">
-  <img src="portfolio/Tumor Classification.png" alt="Tumor Classification Thumbnail" width="400"/>
+  <img src="portfolio/tumor_classification.png" alt="Tumor Classification Thumbnail" width="400"/>
 </div>
 
 **Tech:** TensorFlow · CNN · SHAP · Grad-CAM  
@@ -106,7 +106,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🤟 Indian Sign Language Recognition
 <div align="center">
-  <img src="portfolio/ISL.png" alt="ISL Thumbnail" width="400"/>
+  <img src="portfolio/isl.png" alt="ISL Thumbnail" width="400"/>
 </div>
 
 **Tech:** CNN · Real-time CV · Accessibility  
@@ -126,7 +126,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 📝 Logical Fallacy Detection
 <div align="center">
-  <img src="portfolio/Logical Fallacy Detection.png" alt="Logical Fallacy Thumbnail" width="400"/>
+  <img src="portfolio/logical_fallacy.png" alt="Logical Fallacy Thumbnail" width="400"/>
 </div>
 
 **Tech:** ELECTRA · Transformers · CBR  
@@ -140,7 +140,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🚗 Autonomous Highway RL
 <div align="center">
-  <img src="portfolio/Highway Reinforcement Learning.png" alt="Highway RL Thumbnail" width="400"/>
+  <img src="portfolio/highway_rl.png" alt="Highway RL Thumbnail" width="400"/>
 </div>
 
 **Tech:** Rainbow DQN · A3C · Decision Transformers  
@@ -154,7 +154,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🅿 Multi-Agent Parking Management
 <div align="center">
-  <img src="portfolio/Parking Management.png" alt="Parking Management Thumbnail" width="400"/>
+  <img src="portfolio/parking.png" alt="Parking Management Thumbnail" width="400"/>
 </div>
 
 **Tech:** Multi-Agent RL · Optimization  
