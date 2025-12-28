@@ -35,11 +35,8 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 <!-- ==================== LIVE WIDGETS ==================== -->
 <div align="center">
 
-![Anju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&theme=radical&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&icon_color=DAB49D&text_color=c1c1c1&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1352&layout=compact&theme=radical)
-
-<!-- Optional Quira.sh style activity widget -->
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Av1352&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&theme=radical&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&icon_color=DAB49D&text_color=c1c1c1&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1352&layout=compact&theme=radical)
 
 </div>
 
@@ -77,37 +74,46 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 ---
 
 ### 🖼 VisAIble – Deepfake Detection
+<div align="center">
+  <img src="portfolio/visaible.png" alt="VisAIble Thumbnail" width="400"/>
+</div>
+
 **Tech:** PyTorch · EfficientNet-B0 · Grad-CAM · LIME  
 📌 **Problem:** Enterprise deepfake detection  
 🧠 **Approach:** EfficientNet + explainable AI overlays  
-📈 **Impact:** 95%+ accuracy on real-world data  
+📈 **Impact:** 95%+ accurate  
 📦 **Production:** Docker + Streamlit deployment  
 🔧 **Learnings:** GPU optimization & human-AI collaboration  
-🖼 **Diagram:** ![VisAIble architecture](https://via.placeholder.com/600x200.png?text=VisAIble+Architecture)  
 🔗 [Demo](https://visaible.streamlit.app/) · [Code](https://github.com/Av1352/VisAIble)
 
 ---
 
 ### 🧬 Explainable Tumor Classification
+<div align="center">
+  <img src="portfolio/tumor_classification.png" alt="Tumor Classification Thumbnail" width="400"/>
+</div>
+
 **Tech:** TensorFlow · CNN · SHAP · Grad-CAM  
 📌 **Problem:** Histopathology cancer detection  
 🧠 **Approach:** Transparent CNN with XAI overlays  
 📈 **Impact:** Clinical-grade accuracy  
 📦 **Production:** Dockerized inference + PDF auto-reporting  
 🔧 **Learnings:** Explainability & model debugging  
-🖼 **Diagram:** ![Tumor Classification](https://via.placeholder.com/600x200.png?text=Tumor+Classification+Pipeline)  
 🔗 [Demo](https://tumor-classification-xai.streamlit.app/) · [Code](https://github.com/Av1352/Tumor-Classification)
 
 ---
 
 ### 🤟 Indian Sign Language Recognition
+<div align="center">
+  <img src="portfolio/isl.png" alt="ISL Thumbnail" width="400"/>
+</div>
+
 **Tech:** CNN · Real-time CV · Accessibility  
 📌 **Problem:** Gesture translation for accessibility  
 📈 **Impact:** 93.4% accuracy across 3 dialects  
 📦 **Production:** Real-time gesture recognition demo  
 🔧 **Learnings:** Real-time deployment & latency optimization  
-🖼 **Diagram:** ![ISL Architecture](https://via.placeholder.com/600x200.png?text=ISL+Architecture)  
-🔗 [Demo](https://indian-sign-language-recognition.streamlit.app) · [Code](https://github.com/Av1352/Indian-Sign-Language-Recognition)
+🔗 [Demo](https://indian-sign-language-recognition.streamlit.app/) · [Code](https://github.com/Av1352/Indian-Sign-Language-Recognition)
 
 ---
 
@@ -118,6 +124,10 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 ---
 
 ### 📝 Logical Fallacy Detection
+<div align="center">
+  <img src="portfolio/logical_fallacy.png" alt="Logical Fallacy Thumbnail" width="400"/>
+</div>
+
 **Tech:** ELECTRA · Transformers · CBR  
 📌 **Problem:** Detect multi-class logical fallacies  
 📈 **Impact:** High-accuracy automated reasoning  
@@ -128,6 +138,10 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 ---
 
 ### 🚗 Autonomous Highway RL
+<div align="center">
+  <img src="portfolio/highway_rl.png" alt="Highway RL Thumbnail" width="400"/>
+</div>
+
 **Tech:** Rainbow DQN · A3C · Decision Transformers  
 📌 **Problem:** Safe highway navigation  
 📈 **Impact:** Max reward 48.2, safety-focused policies  
@@ -138,6 +152,10 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 ---
 
 ### 🅿 Multi-Agent Parking Management
+<div align="center">
+  <img src="portfolio/parking.png" alt="Parking Management Thumbnail" width="400"/>
+</div>
+
 **Tech:** Multi-Agent RL · Optimization  
 📌 **Problem:** Optimize parking efficiency  
 📈 **Impact:** 34% efficiency improvement  
@@ -160,7 +178,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ## 🏆 Achievements & Contributions
 - Kaggle competitions: top 10% in NLP & CV challenges  
-- Open-source contributions to PyTorch & Hugging Face projects  
+- Open-source contributions to PyTorch & Hugging Face  
 - Published technical blog posts on AI explainability and RL pipelines  
 
 ---
