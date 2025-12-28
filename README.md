@@ -139,7 +139,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🚗 Autonomous Highway RL
 <div align="center">
-  <img src="portfolio/highway reinforcement learning.png" alt="Highway RL Thumbnail" width="400"/>
+  <img src="portfolio/Highway Reinforcement Learning.png" alt="Highway RL Thumbnail" width="400"/>
 </div>
 
 **Tech:** Rainbow DQN · A3C · Decision Transformers  
