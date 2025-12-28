@@ -35,8 +35,8 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 <!-- ==================== LIVE WIDGETS ==================== -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&theme=radical&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&icon_color=DAB49D&text_color=c1c1c1&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1352&layout=compact&theme=radical)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Av1352&theme=github_dark)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Av1352&theme=tokyonight)
 
 </div>
 
