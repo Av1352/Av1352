@@ -36,7 +36,6 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 <div align="center">
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Av1352&theme=github_dark)
-![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Av1352&theme=tokyonight)
 
 </div>
 
