@@ -1,191 +1,172 @@
+<!-- ==================== PROFILE HEADER ==================== -->
 <div align="center">
 
-# Anju Vilashni Nandhakumar  
-### Applied Machine Learning Engineer · Computer Vision · NLP · Reinforcement Learning
+# 👋 Hi, I'm Anju Vilashni Nandhakumar  
+### Senior ML Engineer | Computer Vision · NLP · Reinforcement Learning
 
-Boston, MA · Open to Full-Time ML / AI Roles  
+🎓 **MS in Artificial Intelligence** @ Northeastern University (2025)  
+⚙️ **3+ years** building production ML systems with PyTorch, TensorFlow & Docker  
+📍 Boston, MA | Open to full-time AI/ML roles
 
-I design and deploy **production-ready ML systems** where correctness, interpretability,  
-and real-world constraints matter more than leaderboard scores.
-
-[Portfolio](https://vxanju.com) · [LinkedIn](https://linkedin.com/in/anju-vilashni) · [Email](mailto:nandhakumar.anju@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vxanju.com-73BA9B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vxanju.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anju--vilashni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anju-vilashni)
+[![Email](https://img.shields.io/badge/Email-nandhakumar.anju@gmail.com-DAB49D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhakumar.anju@gmail.com)
 
 </div>
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🧠 What I Build
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-- End-to-end ML systems from data → model → deployment  
-- Explainable computer vision models for high-stakes domains  
-- Transformer-based NLP systems on large-scale datasets  
-- Reinforcement learning agents under safety and efficiency constraints  
-
-My work emphasizes **engineering tradeoffs**, not just model accuracy.
+<!-- ==================== QUICK BIO ==================== -->
+## 💬 Bio
+I design and deploy **production-grade AI systems** that bridge human intuition and machine reasoning.  
+Passionate about **computer vision, NLP, reinforcement learning**, and building scalable ML pipelines that deliver measurable impact.  
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🎯 Senior Highlights
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-- Reduced inference latency by **~20%** through GPU-aware optimization  
-- Built **clinical-style ML pipelines** with explainability and reporting  
-- Designed **multi-agent RL systems** with reward shaping and safety constraints  
-- Deployed multiple models as **production-ready web systems**  
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🏗 Flagship Systems
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-> These systems represent my deepest work and long-term focus.
+<!-- ==================== SENIOR HIGHLIGHTS ==================== -->
+## 🌟 Senior Highlights
+- 🚀 Reduced model inference latency by **20%** in production ML pipelines  
+- 📦 Designed CI/CD + monitoring for multiple deployed models  
+- 🤝 Led cross-functional engineering collaborations  
+- 🔍 Built explainable AI systems for medical imaging & deepfake detection  
+- 📊 Processed and classified datasets **150K+ samples** using transformer models  
 
 ---
 
-### 🧩 VisAIble — Explainable Deepfake Detection System  
-**PyTorch · EfficientNet · Grad-CAM · LIME**
+<!-- ==================== TECH STACK ==================== -->
+## 🛠 Tech Stack
 
-**Problem**  
-Deepfake detectors often fail in real-world settings where predictions lack interpretability.
+**Machine Learning & AI:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat)
 
-**Key Decisions**
-- Selected EfficientNet-B0 over ViTs to meet latency constraints  
-- Combined Grad-CAM and LIME for complementary explanations  
-- Optimized for false-positive reduction over raw accuracy  
+**NLP:**  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy)
 
-**Outcome**
-- +8% accuracy over baseline CNN  
-- ~22% reduction in false positives on unseen data  
-
-🔗 [Live Demo](https://visaible.streamlit.app/) · [Code](https://github.com/Av1352/VisAIble)
-
----
-
-### 🧩 Explainable Tumor Classification  
-**TensorFlow · CNNs · SHAP · Medical Imaging**
-
-**Problem**  
-Black-box cancer classifiers are unsuitable for clinical decision support.
-
-**Approach**
-- CNN-based histopathology classification  
-- SHAP + Grad-CAM overlays for clinician-facing explanations  
-
-**Outcome**
-- High-confidence predictions with visual justification  
-- Designed for interpretability rather than benchmark chasing  
-
-🔗 [Live Demo](https://tumor-classification-xai.streamlit.app/) · [Code](https://github.com/Av1352/Tumor-Classification)
+**MLOps & Deployment:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 
 ---
 
-### 🧩 Logical Fallacy Detection  
-**ELECTRA · Transformers · NLP**
-
-**Problem**  
-Logical fallacies require contextual reasoning beyond keyword matching.
-
-**Approach**
-- Fine-tuned ELECTRA on multi-class fallacy datasets  
-- Combined transformer embeddings with case-based reasoning  
-
-**Outcome**
-- Robust generalization across subtle fallacy categories  
-
-🔗 [Live Demo](https://logical-fallacy-detection.streamlit.app/) · [Code](https://github.com/Av1352/Logical-Fallacy-Detection)
-
----
-
-### 🧩 Autonomous Highway Reinforcement Learning  
-**Rainbow DQN · A3C · Decision Transformers**
-
-**Problem**  
-RL agents trained in simulation often fail under safety-critical constraints.
-
-**Key Learnings**
-- Reward shaping had greater impact than algorithm choice  
-- Conservative exploration improved policy stability  
-
-**Outcome**
-- Achieved max reward of 48.2 in highway-env  
-- Stable performance across multiple random seeds  
-
-🔗 [Live Demo](https://highway-reinforecement-problem.streamlit.app/) · [Code](https://github.com/Av1352/Highway-RL)
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## ⚙️ Engineering Notes
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Things that mattered more than I expected:
-
-- Dataset leakage caused larger drops than architecture choice  
-- Explainability methods were unstable across seeds → fixed via normalization  
-- Inference optimization had more real-world impact than marginal accuracy gains  
-- RL agent behavior was dominated by reward design, not model complexity  
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🧰 Tools I Reach For
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Modeling:** PyTorch, TensorFlow, Hugging Face  
-**Explainability:** Grad-CAM, SHAP, LIME  
-**Deployment:** Docker, AWS, Streamlit, Flask  
-**Experimentation:** NumPy, Pandas, Scikit-learn  
-
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📊 Activity
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<!-- ==================== FEATURED PROJECTS ==================== -->
+## 🔬 Featured Projects
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Av1352" />
-
+<span style="font-size:20px; font-weight:bold; color:#73BA9B;">Computer Vision Projects</span>
 </div>
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🖼 VisAIble – Deepfake Detection
+**Tech:** PyTorch · EfficientNet-B0 · Grad-CAM · LIME  
+📌 Problem: Enterprise deepfake detection  
+🧠 Approach: EfficientNet + explainable AI overlays  
+📈 Impact: 95%+ accurate on real-world data  
+📦 Production: Docker + Streamlit deployment  
+🔧 Learnings: GPU optimization & human-AI collaboration  
+🔗 [Demo](https://visaible.streamlit.app/) · [Code](https://github.com/Av1352/VisAIble)
+
+---
+
+### 🧬 Explainable Tumor Classification
+**Tech:** TensorFlow · CNN · SHAP · Grad-CAM  
+📌 Problem: Histopathology cancer detection  
+🧠 Approach: Transparent CNN with XAI overlays  
+📈 Impact: Clinical-grade accuracy  
+📦 Production: Dockerized inference + PDF auto-reporting  
+🔧 Learnings: Explainability & model debugging  
+🔗 [Demo](https://tumor-classification-xai.streamlit.app/) · [Code](https://github.com/Av1352/Tumor-Classification)
+
+---
+
+### 🤟 Indian Sign Language Recognition
+**Tech:** CNN · Real-time CV · Accessibility  
+📌 Problem: Gesture translation for accessibility  
+📈 Impact: 93.4% accuracy across 3 dialects  
+📦 Production: Real-time gesture recognition demo  
+🔧 Learnings: Real-time deployment & latency optimization  
+🔗 [Demo](https://indian-sign-language-recognition.streamlit.app) · [Code](https://github.com/Av1352/Indian-Sign-Language-Recognition)
+
+---
+
+<div align="center">
+<span style="font-size:20px; font-weight:bold; color:#73BA9B;">NLP Projects</span>
+</div>
+
+---
+
+### 📝 Logical Fallacy Detection
+**Tech:** ELECTRA · Transformers · CBR  
+📌 Problem: Detect multi-class logical fallacies  
+📈 Impact: High-accuracy automated reasoning  
+📦 Production: Streamlit demo for live testing  
+🔧 Learnings: NLP pipeline optimization  
+🔗 [Demo](https://logical-fallacy-detection.streamlit.app/) · [Code](https://github.com/Av1352/Logical-Fallacy-Detection)
+
+---
+
+### 🎶 150K Lyrics Genre Classifier
+**Tech:** NLP · Transformers · Text Classification  
+📌 Problem: Genre/mood prediction on lyrics  
+📈 Impact: 150K+ sample dataset processed  
+📦 Production: Streamlit demo  
+🔗 [Demo](https://lyrics-classifier.streamlit.app) · [Code](https://github.com/yukta1103/150K-Lyrics-Classifier)
+
+---
+
+<div align="center">
+<span style="font-size:20px; font-weight:bold; color:#73BA9B;">Reinforcement Learning Projects</span>
+</div>
+
+---
+
+### 🚗 Autonomous Highway RL
+**Tech:** Rainbow DQN · A3C · Decision Transformers  
+📌 Problem: Safe highway navigation  
+📈 Impact: Max reward 48.2, safety-focused policies  
+📦 Production: Streamlit simulation  
+🔧 Learnings: Multi-agent decision making  
+🔗 [Demo](https://highway-reinforecement-problem.streamlit.app/) · [Code](https://github.com/Av1352/Highway-RL)
+
+---
+
+### 🅿 Multi-Agent Parking Management
+**Tech:** Multi-Agent RL · Optimization  
+📌 Problem: Optimize parking efficiency  
+📈 Impact: 34% efficiency improvement  
+📦 Production: RL simulation + dashboard  
+🔧 Learnings: Scalability & optimization  
+🔗 [Demo](https://parking-management-rl.streamlit.app/) · [Code](https://github.com/Av1352/Parking-Management)
+
+---
+
+<!-- ==================== EDUCATION & PUBLICATIONS ==================== -->
 ## 🎓 Education
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Northeastern University** — MS in Artificial Intelligence  
-**SRM Institute of Science and Technology** — BE Computer Science (AI/ML)
+- **Northeastern University** — MS in Artificial Intelligence (2023–2025)  
+- **SRM Institute of Science and Technology** — BE CSE (AI/ML Specialization)
 
----
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 📝 Publication
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Music Recommendation via Facial Emotion Recognition**  
-*International Journal of Research and Analytical Reviews (IJRAR), 2022*  
-📄 https://ijrar.org/viewfull.php?&p_id=IJRAR22D2280
+- **Music Recommendation via Facial Emotion Recognition**  
+  *IJRAR, 2022*  
+  📄 [Read Paper](https://ijrar.org/viewfull.php?&p_id=IJRAR22D2280)
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 🔍 Current Focus
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-- Explainability under distribution shift  
-- Human-AI collaboration in safety-critical ML  
-- Bridging academic ML and production constraints  
-
----
-
+<!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-*I build ML systems meant to survive outside notebooks.*  
-⭐ If something here helps you, feel free to star the repo.
+### *“Building AI systems that bridge human intuition and machine reasoning.”*  
+⭐ If you like my work, consider starring my repos!  
 
 </div>
+
