@@ -36,6 +36,8 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 <div align="center">
 
 ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Av1352&theme=github_dark)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Av1352&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
