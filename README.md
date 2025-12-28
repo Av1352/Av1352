@@ -75,13 +75,14 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🖼 VisAIble – Deepfake Detection
 <div align="center">
-  <img src="portfolio/visaible.png" alt="VisAIble Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
+  <img src="portfolio/visaible.png" alt="VisAIble Thumbnail" width="400"/>
 </div>
 
+![Accuracy](https://img.shields.io/badge/Accuracy-95%25-73BA9B?style=flat)
+
 **Tech:** PyTorch · EfficientNet-B0 · Grad-CAM · LIME  
-📌 **Problem:** Enterprise deepfake detection  
-🧠 **Approach:** EfficientNet + explainable AI overlays  
-📈 **Impact:** 95%+ accurate  
+📌 **Problem:** Enterprise-grade deepfake detection  
+🧠 **Approach:** EfficientNet with explainable AI overlays  
 📦 **Production:** Docker + Streamlit deployment  
 🔧 **Learnings:** GPU optimization & human-AI collaboration  
 🔗 [Demo](https://visaible.streamlit.app/) · [Code](https://github.com/Av1352/VisAIble)
@@ -90,13 +91,14 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🧬 Explainable Tumor Classification
 <div align="center">
-  <img src="portfolio/tumor_classification.png" alt="Tumor Classification Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
+  <img src="portfolio/tumor_classification.png" alt="Tumor Classification Thumbnail" width="400"/>
 </div>
+
+![Clinical Grade](https://img.shields.io/badge/Clinical--Grade-Validated-73BA9B?style=flat)
 
 **Tech:** TensorFlow · CNN · SHAP · Grad-CAM  
 📌 **Problem:** Histopathology cancer detection  
 🧠 **Approach:** Transparent CNN with XAI overlays  
-📈 **Impact:** Clinical-grade accuracy  
 📦 **Production:** Dockerized inference + PDF auto-reporting  
 🔧 **Learnings:** Explainability & model debugging  
 🔗 [Demo](https://tumor-classification-xai.streamlit.app/) · [Code](https://github.com/Av1352/Tumor-Classification)
@@ -105,62 +107,68 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🤟 Indian Sign Language Recognition
 <div align="center">
-  <img src="portfolio/isl.png" alt="ISL Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
+  <img src="portfolio/isl.png" alt="ISL Thumbnail" width="400"/>
 </div>
+
+![Accuracy](https://img.shields.io/badge/Accuracy-93.4%25-73BA9B?style=flat)
 
 **Tech:** CNN · Real-time CV · Accessibility  
 📌 **Problem:** Gesture translation for accessibility  
 📈 **Impact:** 93.4% accuracy across 3 dialects  
 📦 **Production:** Real-time gesture recognition demo  
-🔧 **Learnings:** Real-time deployment & latency optimization  
+🔧 **Learnings:** Latency optimization & real-time inference  
 🔗 [Demo](https://indian-sign-language-recognition.streamlit.app/) · [Code](https://github.com/Av1352/Indian-Sign-Language-Recognition)
 
 ---
 
 <div align="center">
-<span style="font-size:20px; font-weight:bold; color:#73BA9B;">NLP & RL</span>
+<span style="font-size:20px; font-weight:bold; color:#73BA9B;">NLP & Reinforcement Learning</span>
 </div>
 
 ---
 
 ### 📝 Logical Fallacy Detection
 <div align="center">
-  <img src="portfolio/logical_fallacy.png" alt="Logical Fallacy Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
+  <img src="portfolio/logical_fallacy.png" alt="Logical Fallacy Thumbnail" width="400"/>
 </div>
 
+![Dataset](https://img.shields.io/badge/Dataset-150K%2B-73BA9B?style=flat)
+
 **Tech:** ELECTRA · Transformers · CBR  
-📌 **Problem:** Detect multi-class logical fallacies  
-📈 **Impact:** High-accuracy automated reasoning  
-📦 **Production:** Streamlit demo  
-🔧 **Learnings:** NLP pipeline optimization  
+📌 **Problem:** Multi-class logical fallacy detection  
+📦 **Production:** Streamlit demo for live testing  
+🔧 **Learnings:** NLP pipeline optimization & reasoning models  
 🔗 [Demo](https://logical-fallacy-detection.streamlit.app/) · [Code](https://github.com/Av1352/Logical-Fallacy-Detection)
 
 ---
 
 ### 🚗 Autonomous Highway RL
 <div align="center">
-  <img src="portfolio/highway_rl.png" alt="Highway RL Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
+  <img src="portfolio/highway_rl.png" alt="Highway RL Thumbnail" width="400"/>
 </div>
 
+![Max Reward](https://img.shields.io/badge/Max_Reward-48.2-73BA9B?style=flat)
+
 **Tech:** Rainbow DQN · A3C · Decision Transformers  
-📌 **Problem:** Safe highway navigation  
-📈 **Impact:** Max reward 48.2, safety-focused policies  
+📌 **Problem:** Safe autonomous highway navigation  
 📦 **Production:** Streamlit simulation  
-🔧 **Learnings:** Multi-agent decision making  
+🔧 **Learnings:** Multi-agent decision making & policy optimization  
 🔗 [Demo](https://highway-reinforecement-problem.streamlit.app/) · [Code](https://github.com/Av1352/Highway-RL)
 
 ---
 
 ### 🅿 Multi-Agent Parking Management
 <div align="center">
-  <img src="portfolio/parking.png" alt="Parking Management Thumbnail" width="90%" style="max-width:400px; border-radius:8px; border:2px solid #73BA9B;"/>
+  <img src="portfolio/parking.png" alt="Parking Management Thumbnail" width="400"/>
 </div>
 
+![Efficiency](https://img.shields.io/badge/Efficiency-34%25-73BA9B?style=flat)
+
 **Tech:** Multi-Agent RL · Optimization  
-📌 **Problem:** Optimize parking efficiency  
+📌 **Problem:** Parking space optimization  
 📈 **Impact:** 34% efficiency improvement  
 📦 **Production:** RL simulation + dashboard  
-🔧 **Learnings:** Scalability & optimization  
+🔧 **Learnings:** Scalability & reward shaping  
 🔗 [Demo](https://parking-management-rl.streamlit.app) · [Code](https://github.com/Av1352/Parking-Management)
 
 ---
