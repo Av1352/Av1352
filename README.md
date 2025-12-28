@@ -90,7 +90,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🧬 Explainable Tumor Classification
 <div align="center">
-  <img src="portfolio/tumor_classification.png" alt="Tumor Classification Thumbnail" width="400"/>
+  <img src="portfolio/tumor classification.png" alt="Tumor Classification Thumbnail" width="400"/>
 </div>
 
 **Tech:** TensorFlow · CNN · SHAP · Grad-CAM  
@@ -125,7 +125,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 📝 Logical Fallacy Detection
 <div align="center">
-  <img src="portfolio/logical_fallacy.png" alt="Logical Fallacy Thumbnail" width="400"/>
+  <img src="portfolio/logical fallacy.png" alt="Logical Fallacy Thumbnail" width="400"/>
 </div>
 
 **Tech:** ELECTRA · Transformers · CBR  
@@ -139,7 +139,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ### 🚗 Autonomous Highway RL
 <div align="center">
-  <img src="portfolio/highway_rl.png" alt="Highway RL Thumbnail" width="400"/>
+  <img src="portfolio/highway reinforcement learning.png" alt="Highway RL Thumbnail" width="400"/>
 </div>
 
 **Tech:** Rainbow DQN · A3C · Decision Transformers  
