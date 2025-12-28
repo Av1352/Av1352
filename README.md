@@ -149,15 +149,8 @@ RL agents trained in simulation often fail under safety-critical constraints.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&count_private=true"
-  alt="GitHub Stats"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Av1352"
-  alt="GitHub Streak"
-  height="165"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Av1352"
+  alt="GitHub Activity Graph"
 />
 
 </div>
