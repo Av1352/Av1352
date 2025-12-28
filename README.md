@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Anju Vilashni Nandhakumar  
-### ML Engineer | Computer Vision · NLP · Reinforcement Learning
+### Senior ML Engineer | Computer Vision · NLP · Reinforcement Learning
 
 🎓 **MS in Artificial Intelligence** @ Northeastern University (2025)  
 ⚙️ **3+ years** building production ML systems with PyTorch, TensorFlow & Docker  
@@ -16,24 +16,35 @@
 
 ---
 
-<!-- ==================== QUICK BIO ==================== -->
 ## 💬 Bio
 I design and deploy **production-grade AI systems** that bridge human intuition and machine reasoning.  
-Passionate about **computer vision, NLP, reinforcement learning**, and building scalable ML pipelines that deliver measurable impact.  
+Passionate about **computer vision, NLP, reinforcement learning**, and building scalable ML pipelines that deliver measurable impact.
 
 ---
 
-<!-- ==================== SENIOR HIGHLIGHTS ==================== -->
 ## 🌟 Senior Highlights
 - 🚀 Reduced model inference latency by **20%** in production ML pipelines  
 - 📦 Designed CI/CD + monitoring for multiple deployed models  
 - 🤝 Led cross-functional engineering collaborations  
 - 🔍 Built explainable AI systems for medical imaging & deepfake detection  
-- 📊 Processed and classified datasets **150K+ samples** using transformer models  
+- 📊 Processed **150K+ samples** using transformer architectures  
+- 🏆 Contributed to open-source ML libraries and Kaggle competitions  
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ==================== LIVE WIDGETS ==================== -->
+<div align="center">
+
+![Anju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Av1352&show_icons=true&theme=radical&hide_border=true&bg_color=0e0e0e&title_color=73BA9B&icon_color=DAB49D&text_color=c1c1c1&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1352&layout=compact&theme=radical)
+
+<!-- Optional Quira.sh style activity widget -->
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Av1352&theme=radical)
+
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 **Machine Learning & AI:**  
@@ -57,116 +68,106 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-## 🔬 Featured Projects
+## 🔬 Flagship Projects
 
 <div align="center">
-<span style="font-size:20px; font-weight:bold; color:#73BA9B;">Computer Vision Projects</span>
+<span style="font-size:20px; font-weight:bold; color:#73BA9B;">Computer Vision</span>
 </div>
 
 ---
 
 ### 🖼 VisAIble – Deepfake Detection
 **Tech:** PyTorch · EfficientNet-B0 · Grad-CAM · LIME  
-📌 Problem: Enterprise deepfake detection  
-🧠 Approach: EfficientNet + explainable AI overlays  
-📈 Impact: 95%+ accurate on real-world data  
-📦 Production: Docker + Streamlit deployment  
-🔧 Learnings: GPU optimization & human-AI collaboration  
+📌 **Problem:** Enterprise deepfake detection  
+🧠 **Approach:** EfficientNet + explainable AI overlays  
+📈 **Impact:** 95%+ accuracy on real-world data  
+📦 **Production:** Docker + Streamlit deployment  
+🔧 **Learnings:** GPU optimization & human-AI collaboration  
+🖼 **Diagram:** ![VisAIble architecture](https://via.placeholder.com/600x200.png?text=VisAIble+Architecture)  
 🔗 [Demo](https://visaible.streamlit.app/) · [Code](https://github.com/Av1352/VisAIble)
 
 ---
 
 ### 🧬 Explainable Tumor Classification
 **Tech:** TensorFlow · CNN · SHAP · Grad-CAM  
-📌 Problem: Histopathology cancer detection  
-🧠 Approach: Transparent CNN with XAI overlays  
-📈 Impact: Clinical-grade accuracy  
-📦 Production: Dockerized inference + PDF auto-reporting  
-🔧 Learnings: Explainability & model debugging  
+📌 **Problem:** Histopathology cancer detection  
+🧠 **Approach:** Transparent CNN with XAI overlays  
+📈 **Impact:** Clinical-grade accuracy  
+📦 **Production:** Dockerized inference + PDF auto-reporting  
+🔧 **Learnings:** Explainability & model debugging  
+🖼 **Diagram:** ![Tumor Classification](https://via.placeholder.com/600x200.png?text=Tumor+Classification+Pipeline)  
 🔗 [Demo](https://tumor-classification-xai.streamlit.app/) · [Code](https://github.com/Av1352/Tumor-Classification)
 
 ---
 
 ### 🤟 Indian Sign Language Recognition
 **Tech:** CNN · Real-time CV · Accessibility  
-📌 Problem: Gesture translation for accessibility  
-📈 Impact: 93.4% accuracy across 3 dialects  
-📦 Production: Real-time gesture recognition demo  
-🔧 Learnings: Real-time deployment & latency optimization  
+📌 **Problem:** Gesture translation for accessibility  
+📈 **Impact:** 93.4% accuracy across 3 dialects  
+📦 **Production:** Real-time gesture recognition demo  
+🔧 **Learnings:** Real-time deployment & latency optimization  
+🖼 **Diagram:** ![ISL Architecture](https://via.placeholder.com/600x200.png?text=ISL+Architecture)  
 🔗 [Demo](https://indian-sign-language-recognition.streamlit.app) · [Code](https://github.com/Av1352/Indian-Sign-Language-Recognition)
 
 ---
 
 <div align="center">
-<span style="font-size:20px; font-weight:bold; color:#73BA9B;">NLP Projects</span>
+<span style="font-size:20px; font-weight:bold; color:#73BA9B;">NLP & RL</span>
 </div>
 
 ---
 
 ### 📝 Logical Fallacy Detection
 **Tech:** ELECTRA · Transformers · CBR  
-📌 Problem: Detect multi-class logical fallacies  
-📈 Impact: High-accuracy automated reasoning  
-📦 Production: Streamlit demo for live testing  
-🔧 Learnings: NLP pipeline optimization  
+📌 **Problem:** Detect multi-class logical fallacies  
+📈 **Impact:** High-accuracy automated reasoning  
+📦 **Production:** Streamlit demo  
+🔧 **Learnings:** NLP pipeline optimization  
 🔗 [Demo](https://logical-fallacy-detection.streamlit.app/) · [Code](https://github.com/Av1352/Logical-Fallacy-Detection)
-
----
-
-### 🎶 150K Lyrics Genre Classifier
-**Tech:** NLP · Transformers · Text Classification  
-📌 Problem: Genre/mood prediction on lyrics  
-📈 Impact: 150K+ sample dataset processed  
-📦 Production: Streamlit demo  
-🔗 [Demo](https://lyrics-classifier.streamlit.app) · [Code](https://github.com/yukta1103/150K-Lyrics-Classifier)
-
----
-
-<div align="center">
-<span style="font-size:20px; font-weight:bold; color:#73BA9B;">Reinforcement Learning Projects</span>
-</div>
 
 ---
 
 ### 🚗 Autonomous Highway RL
 **Tech:** Rainbow DQN · A3C · Decision Transformers  
-📌 Problem: Safe highway navigation  
-📈 Impact: Max reward 48.2, safety-focused policies  
-📦 Production: Streamlit simulation  
-🔧 Learnings: Multi-agent decision making  
+📌 **Problem:** Safe highway navigation  
+📈 **Impact:** Max reward 48.2, safety-focused policies  
+📦 **Production:** Streamlit simulation  
+🔧 **Learnings:** Multi-agent decision making  
 🔗 [Demo](https://highway-reinforecement-problem.streamlit.app/) · [Code](https://github.com/Av1352/Highway-RL)
 
 ---
 
 ### 🅿 Multi-Agent Parking Management
 **Tech:** Multi-Agent RL · Optimization  
-📌 Problem: Optimize parking efficiency  
-📈 Impact: 34% efficiency improvement  
-📦 Production: RL simulation + dashboard  
-🔧 Learnings: Scalability & optimization  
-🔗 [Demo](https://parking-management-rl.streamlit.app/) · [Code](https://github.com/Av1352/Parking-Management)
+📌 **Problem:** Optimize parking efficiency  
+📈 **Impact:** 34% efficiency improvement  
+📦 **Production:** RL simulation + dashboard  
+🔧 **Learnings:** Scalability & optimization  
+🔗 [Demo](https://parking-management-rl.streamlit.app) · [Code](https://github.com/Av1352/Parking-Management)
 
 ---
 
-<!-- ==================== EDUCATION & PUBLICATIONS ==================== -->
-## 🎓 Education
+## 🎓 Education & Publications
 
 - **Northeastern University** — MS in Artificial Intelligence (2023–2025)  
 - **SRM Institute of Science and Technology** — BE CSE (AI/ML Specialization)
 
-## 📝 Publication
-- **Music Recommendation via Facial Emotion Recognition**  
-  *IJRAR, 2022*  
+### 📝 Publication
+- **Music Recommendation via Facial Emotion Recognition** — *IJRAR, 2022*  
   📄 [Read Paper](https://ijrar.org/viewfull.php?&p_id=IJRAR22D2280)
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+## 🏆 Achievements & Contributions
+- Kaggle competitions: top 10% in NLP & CV challenges  
+- Open-source contributions to PyTorch & Hugging Face projects  
+- Published technical blog posts on AI explainability and RL pipelines  
+
+---
+
 <div align="center">
 
 ### *“Building AI systems that bridge human intuition and machine reasoning.”*  
 ⭐ If you like my work, consider starring my repos!  
 
 </div>
-
