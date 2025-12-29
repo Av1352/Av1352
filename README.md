@@ -188,10 +188,11 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ---
 
-## 🏆 Achievements & Contributions
-- Kaggle competitions: top 10% in NLP & CV challenges  
-- Open-source contributions to PyTorch & Hugging Face  
-- Published technical blog posts on AI explainability and RL pipelines  
+## 🧠 Impact & Signals
+- Designed end-to-end ML systems from data ingestion to deployment
+- Built explainability-first pipelines for high-stakes domains (healthcare, misinformation)
+- Deployed and maintained multiple Streamlit-based ML demos used by real users
+- Strong focus on model interpretability, monitoring, and production readiness 
 
 ---
 
