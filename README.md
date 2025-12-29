@@ -10,6 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vxanju.com-73BA9B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vxanju.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anju--vilashni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anju-vilashni)
+
 [![Email](https://img.shields.io/badge/Email-nandhakumar.anju@gmail.com-DAB49D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhakumar.anju@gmail.com)
 
 </div>
@@ -37,7 +38,6 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Av1352&theme=github_dark)
 ![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Av1352&theme=github_dark)
-
 </div>
 
 ---
@@ -45,23 +45,23 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 ## 🛠 Tech Stack
 
 **Machine Learning & AI:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **NLP:**  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 **MLOps & Deployment:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
@@ -80,6 +80,8 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ![Accuracy](https://img.shields.io/badge/Accuracy-95%25-73BA9B?style=flat)
 
+🧭 Demonstrates: explainability-first model design in production
+
 **Tech:** PyTorch · EfficientNet-B0 · Grad-CAM · LIME  
 📌 **Problem:** Enterprise-grade deepfake detection  
 🧠 **Approach:** EfficientNet with explainable AI overlays  
@@ -96,8 +98,10 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ![Clinical Grade](https://img.shields.io/badge/Clinical--Grade-Validated-73BA9B?style=flat)
 
+🧭 Demonstrates: explainability-first model design in production
+
 **Tech:** TensorFlow · CNN · SHAP · Grad-CAM  
-📌 **Problem:** Histopathology cancer detection  
+🎯 **Problem:** Histopathology cancer detection  
 🧠 **Approach:** Transparent CNN with XAI overlays  
 📦 **Production:** Dockerized inference + PDF auto-reporting  
 🔧 **Learnings:** Explainability & model debugging  
@@ -135,7 +139,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 ![Dataset](https://img.shields.io/badge/Dataset-150K%2B-73BA9B?style=flat)
 
 **Tech:** ELECTRA · Transformers · CBR  
-📌 **Problem:** Multi-class logical fallacy detection  
+🎯 **Problem:** Multi-class logical fallacy detection  
 📦 **Production:** Streamlit demo for live testing  
 🔧 **Learnings:** NLP pipeline optimization & reasoning models  
 🔗 [Demo](https://logical-fallacy-detection.streamlit.app/) · [Code](https://github.com/Av1352/Logical-Fallacy-Detection)
@@ -165,7 +169,7 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 ![Efficiency](https://img.shields.io/badge/Efficiency-34%25-73BA9B?style=flat)
 
 **Tech:** Multi-Agent RL · Optimization  
-📌 **Problem:** Parking space optimization  
+🎯 **Problem:** Parking space optimization  
 📈 **Impact:** 34% efficiency improvement  
 📦 **Production:** RL simulation + dashboard  
 🔧 **Learnings:** Scalability & reward shaping  
