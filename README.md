@@ -5,7 +5,7 @@
 ### ML Engineer | Computer Vision · NLP · Reinforcement Learning
 
 🎓 **MS in Artificial Intelligence** @ Northeastern University (2025)  
-⚙️ **3+ years** building production ML systems with PyTorch, TensorFlow & Docker  
+🚀 **10 production ML systems** deployed — healthcare AI, computer vision, NLP, RL  
 📍 Boston, MA | Open to full-time AI/ML roles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vxanju.com-73BA9B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vxanju.com)
@@ -70,6 +70,25 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 <div align="center">
 <span style="font-size:20px; font-weight:bold; color:#73BA9B;">Computer Vision</span>
 </div>
+
+---
+
+### 🏥 ClinicalQA — RAG-Powered Medical Document Analysis
+
+<div align="center">
+  <img src="portfolio/clinicalqa.png" alt="ClinicalQA Thumbnail" width="400"/>
+</div>
+
+![RAG](https://img.shields.io/badge/RAG-Production-73BA9B?style=flat)
+
+🧭 Demonstrates: production RAG pipeline with clinical explainability
+
+**Tech:** Python · LangChain · FAISS · sentence-transformers · Claude · React · FastAPI  
+🎯 **Problem:** Medical document question answering with source attribution  
+🧠 **Approach:** Chunk → embed locally → retrieve via FAISS cosine similarity → Claude answers from context only  
+📦 **Production:** FastAPI backend + React frontend, deployed on Railway + Vercel  
+🔧 **Learnings:** Retrieval quality, chunk overlap tuning, explainable source attribution for clinical trust  
+🔗 [Demo](https://clinicalqa.vercel.app) · [Code](https://github.com/Av1352/clinicalqa)
 
 ---
 
