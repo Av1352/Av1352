@@ -92,6 +92,26 @@ Passionate about **computer vision, NLP, reinforcement learning**, and building 
 
 ---
 
+### 💰 AdvisorIQ — AI Financial Advisor Matching
+<div align="center">
+  <img src="portfolio/advisoriq.png" alt="AdvisorIQ Thumbnail" width="400"/>
+</div>
+
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-c9a84c?style=flat)
+
+🧭 Demonstrates: embedding-based matching pipeline for fintech
+
+**Tech:** Python · sentence-transformers · FAISS · Claude · React · FastAPI
+
+🎯 **Problem:** Match clients to financial advisors based on semantic profile similarity  
+🧠 **Approach:** Client profile → vectorized with sentence-transformers → FAISS cosine similarity search → Claude explains each match  
+📦 **Production:** FastAPI backend on Render + React frontend on Vercel  
+🔧 **Learnings:** Semantic matching without keyword overlap, embedding quality for structured profiles  
+
+🔗 [Demo](https://advisor-iq.vercel.app) · [Code](https://github.com/Av1352/AdvisorIQ)
+
+---
+
 ### 🖼 VisAIble – Deepfake Detection
 <div align="center">
   <img src="portfolio/visaible.png" alt="VisAIble Thumbnail" width="400"/>
